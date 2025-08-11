@@ -12,4 +12,4 @@ Through this process, I learned how to **personalize a pre-made project**, **str
 
 ## Preview
 
-<img src="assets\images\demo.gif">
+<img src="demo.gif">
